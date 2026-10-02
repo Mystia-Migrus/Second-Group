@@ -18,6 +18,7 @@
 * docs/: 题目一文档与文档素材分支
 
 ### 项目结构
+```
 git-repository/
  |—— second-group/
     ├── style.css            # 主题"身份证"，头部注释必须写（否则后台认不出）
@@ -40,6 +41,7 @@ git-repository/
         └── fonts/
  |—— docs/
  |—— README
+```
 
 ### 项目任务分配
  组长: 负责题目一总报告和报告用的素材
