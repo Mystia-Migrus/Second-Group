@@ -44,37 +44,25 @@ git-repository/
 ```
 
 ### 项目任务分配
- 组长: 负责题目一总报告和报告用的素材
+* 组长: 负责题目一总报告和报告用的素材
+    * docs/*
+    * 分支: docs/
 
-  docs/*
-
- 分支: docs/
-
- 副组长1 + 2: 负责 WP 机制和集成 
-
-  style.css, functions.php
-
- 分支: feature/wp-core
+* 副组长1 + 2: 负责 WP 机制和集成 
+    * style.css, functions.php
+    * 分支: feature/wp-core
   
- 副组长1: 负责样式/响应式/浏览器兼容
+* 副组长1: 负责样式/响应式/浏览器兼容
+    * assets/css/base.css, layout.css, components.css, responsive.css, assets/img, fonts
+    * 分支: feature/styles
 
-  assets/css/base.css, layout.css, components.css, responsive.css, assets/img, fonts
- 
- 分支: feature/styles
+* 副组长2: 负责公共布局 + 设计文档
+    * header.php, footer.php, front-page.php, sidebar.php
+    * 分支: feature/layout-home, docs/
 
- 副组长2: 负责公共布局 + 设计文档
+* 梁君泽: 负责内容模板
+    
+    * index.php, single.php, page.php, 404.php, category.php, search.php
+    * 分支: feature/templates
 
-  header.php, footer.php, front-page.php, sidebar.php
- 
- 分支: feature/layout-home, docs/
-
- 梁君泽: 负责内容模板
-
-  index.php, single.php, page.php, 404.php
-  
-  category.php, search.php
- 
- 分支: feature/templates
-
-
- 陆锦颖: 未参加会议, 暂时不分配
+* 陆锦颖: 未参加会议, 暂时不分配
