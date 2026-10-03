@@ -1,5 +1,5 @@
 # 第二小组实习作品(WordPress 自定义模板开发)
-
+修订日期: 26.10.3:10:00
 ## 项目简述
 
 ### 参与人
@@ -65,4 +65,6 @@ git-repository/
     * index.php, single.php, page.php, 404.php, category.php, search.php
     * 分支: feature/templates
 
-* 陆锦颖: 未参加会议, 暂时不分配
+* 陆锦颖: 与梁君泽共同研究内容模板
+    各自做好文件的分配, 不要冲突
+    * 分支: feature/templates
